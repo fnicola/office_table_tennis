@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_player_id: 1
+  second_player_id: 1
+  score: MyString
+  happened_at: 2015-04-22 00:42:03
+
+two:
+  first_player_id: 1
+  second_player_id: 1
+  score: MyString
+  happened_at: 2015-04-22 00:42:03
